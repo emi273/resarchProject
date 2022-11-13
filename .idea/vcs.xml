@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Detection-of-Groups-with-Biased-Representation-in-Ranking" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Detection_of_Groups_with_Biased_Representation_in_Ranking" vcs="Git" />
   </component>
